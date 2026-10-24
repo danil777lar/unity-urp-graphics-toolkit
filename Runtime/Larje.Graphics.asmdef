@@ -15,6 +15,12 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "com.larje.extenject",
+            "expression": "9.0.0",
+            "define": "LARJE_ZENJECT"
+        }
+    ],
     "noEngineReferences": false
 }
