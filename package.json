@@ -1,0 +1,18 @@
+{
+  "name": "com.larje.graphics",
+  "version": "0.1.0",
+  "displayName": "Larje Graphics",
+  "description": "URP graphics tools: post FX renderer feature, mesh outlines, volumetric light meshes, trajectory drawer, lightmap packs for Addressables, toon/particle/VFX shader graphs.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Danil Kolbasenko",
+    "email": "danil777lar@gmail.com",
+    "url": "https://github.com/danil777lar"
+  },
+  "dependencies": {
+    "com.larje.core": "0.1.0",
+    "com.unity.render-pipelines.universal": "17.0.0",
+    "com.unity.shadergraph": "17.0.0"
+  },
+  "keywords": ["larje", "urp", "graphics", "postfx", "outline"]
+}

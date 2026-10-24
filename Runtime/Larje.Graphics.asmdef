@@ -1,0 +1,20 @@
+{
+    "name": "Larje.Graphics",
+    "rootNamespace": "Larje.Graphics",
+    "references": [
+        "Larje.Core",
+        "UniTask",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
